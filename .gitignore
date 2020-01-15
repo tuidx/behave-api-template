@@ -1,0 +1,89 @@
+###############
+# Directories
+###############
+bin/
+gen/
+target/
+.sonar/
+reports/
+allure-report/
+.idea
+###############
+# Java class files
+###############
+*.class
+###############
+# log files
+###############
+*.txt
+*.log
+*.sh
+*.pdf
+
+###############
+# Package Files
+###############
+*.jar
+*.war
+*.ear
+*.db
+*.pyc
+###############
+# Windows image file caches
+###############
+Thumbs.db
+###############
+# Thumbnails
+###############
+._*
+###############
+# OS Files
+###############
+.DS_Store
+######################
+# IntelliJ Idea
+######################
+idea/
+/out/
+build/
+*.iml
+*.iws
+*.ipr
+.idea
+.gradle
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/dictionaries
+.idea/vcs.xml
+.idea/jsLibraryMappings.xml
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+.idea/sqlDataSources.xml
+.idea/dynamic.xml
+.idea/uiDesigner.xml
+.idea/gradle.xml
+.idea/libraries
+.idea/mongoSettings.xml
+.idea_modules/
+atlassian-ide-plugin.xml
+*.html
+
+############################
+# Virtual environments
+############################
+
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+#####################
+# Images
+#####################
+*.jpg
+*.png
+
